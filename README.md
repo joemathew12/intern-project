@@ -1,5 +1,6 @@
 # intern-project
 Repository Created to showcase projects done during Summer Internship
+
 Week 1 :
 This file showcases the sorting algorithms completed within the first week.
 algo - Simple sorting algorithm that is able to sort values within a 2D array according to the users needs
